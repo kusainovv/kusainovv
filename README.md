@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kusainovv
 - 👀 I’m interested in Frontend Developmment
-- 📫 Look at this - [https://drive.google.com/file/d/12iC-zYKrycLJeF5T90bRoATqGFR-RzKP/view?usp=share_link] (doesn't update)
+- 📫 Look at this - [https://docs.google.com/document/d/1SUWfPZl-wYcywzwC8Z-WMkn8aLjq2v93gL-ow-Xtnxs/edit?usp=sharing]
 
 <!---
 kusainovv/kusainovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
