@@ -9,7 +9,9 @@
 <br />
 
 ~~- 👋 Hi, I’m @kusainovv~~
+<br />
 ~~- 👀 I’m interested in Frontend Developmment~~
+<br />
 ~~- 📫 Look at this - [https://docs.google.com/document/d/1SUWfPZl-wYcywzwC8Z-WMkn8aLjq2v93gL-ow-Xtnxs/edit?usp=sharing]~~
 
 <!---
