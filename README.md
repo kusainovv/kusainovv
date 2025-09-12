@@ -1,1 +1,1 @@
-0_o
+**consistency**
